@@ -10,9 +10,13 @@ function clues() {
     fill("lightblue")
     text("Hint: Always changing, not constant !!", 100,70)
 // add code for displaying rest of the names and the hints.
+    fill("white")
     text("U N F T C I N O", 700,150);
+    fill("lightblue")
     text("Hint: Performs a specific task!!", 700,170)
     
+    fill("white")
     text("S B A E T D A A", 100,250);
+    fill("lightblue")
     text("Hint: Stores all information!!", 100,270)
 }
