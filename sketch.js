@@ -36,6 +36,16 @@ function draw() {
     fill("black")
     textSize(40);
     text("TREASURE UNLOCKED",250, 200);
+    
+      security.access1.hide();
+      security.button1.hide();
+     
+      security.access2.hide();
+      security.button2.hide();
+
+      security.access3.hide();
+      security.button3.hide();
+   
   }
 
   drawSprites()
